@@ -1,0 +1,32 @@
+[
+    {
+        "city": "Delhi",
+        "country": "India",
+        "temperature": 13.0,
+        "feels_like": 12.5,
+        "humidity": 77,
+        "wind_kph": 8.3,
+        "condition": "Mist",
+        "time": "2026-01-21 11:11"
+    },
+    {
+        "city": "Kolkata",
+        "country": "India",
+        "temperature": 21.2,
+        "feels_like": 21.2,
+        "humidity": 64,
+        "wind_kph": 3.6,
+        "condition": "Mist",
+        "time": "2026-01-21 11:15"
+    },
+    {
+        "city": "Chennai",
+        "country": "India",
+        "temperature": 24.4,
+        "feels_like": 25.8,
+        "humidity": 74,
+        "wind_kph": 18.4,
+        "condition": "Mist",
+        "time": "2026-01-21 11:18"
+    }
+]
